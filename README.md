@@ -35,116 +35,44 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The Queene of Arragon A tragi-comedie.Habington, William, 1605-1654.1640Approx. 148 KB of XML-encode
+
+1. The Actors Names.
+
+1. The Prologue at Court.
+
+1. The Prologue at the Fryers.
+
 #####Body#####
 
-1. Actus Primus.
+1. THE QVEENE OF ARRAGON.
 
-    _ Scena Prima.
+    _ Actus Primus.
 
-    _ Scena Prima.
+      * Scena Prima.
 
-    _ Scena Prima.
+    _ Actus Secundi.
 
-    _ Scena Prima.
+      * Scena Prima.
 
-    _ Scena Prima.
+    _ Actus Tertius.
 
-1. Actus Secundi.
+      * Scena Prima.
 
-    _ Scena Prima.
+    _ Actus Quartus.
 
-    _ Scena Prima.
+      * Scena Prima.
 
-    _ Scena Prima.
+    _ Actus Quintus.
 
-    _ Scena Prima.
+      * Scena Prima.
 
-    _ Scena Prima.
+    _ The Song in the second Act.
 
-1. Actus Tertius.
+    _ The Song in the fourth Act.
 
-    _ Scena Prima.
+    _ The Epilogue at Court.
 
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-1. Actus Quartus.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-1. Actus Quintus.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-1. The Song in the second Act.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-1. The Song in the fourth Act.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-1. The Epilogue at Court.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-1. The Epilogue at the Fryers.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
-
-    _ Scena Prima.
+    _ The Epilogue at the Fryers.
 
 **Types of content**
 
